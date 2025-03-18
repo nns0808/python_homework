@@ -189,4 +189,4 @@ def pig_latin(sentence):
 
 print(pig_latin("monthly product update"))
 print(pig_latin("quality best is not better"))
-print(pig_latin("Better safe than sorry"))
+print(pig_latin("Better safe than"))
