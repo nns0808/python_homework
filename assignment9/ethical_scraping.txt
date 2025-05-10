@@ -1,0 +1,21 @@
+Wikipedia's robots.txt file restricts certain sections of the website from being crawled,
+including areas accessed by specific bots like MJ12bot and Mediapartners-Google, which are
+disallowed from crawling any part of the site. Additionally, IsraBot, Orthogaffe, and several
+other bots like Zealbot, MSIECrawler, and WebCopier, are restricted from crawling. 
+The file also restricts bots that behave poorly, such as the fast bot, which is disallowed due to
+making requests too quickly. The restrictions apply to a wide range of bots, mainly to prevent high
+ traffic and misuse of resources.
+
+ The robots.txt file for Wikipedia includes specific rules for certain user agents. 
+ For example, the Mediapartners-Google user agent, associated with Google AdSense, is allowed 
+ to crawl the entire site, as there are no restrictions for this bot. Bots like MJ12bot and
+ Zealbot are explicitly disallowed from crawling any part of the site, along with bots known
+ for scraping or causing excessive traffic, such as IsraBot and Orthogaffe. These restrictions
+ are intended to ensure that the site’s resources are not overwhelmed by bots and to control the
+ type of traffic that is allowed.
+
+
+ Websites use robots.txt to tell web robots which parts of the site they can visit and which
+ parts they should stay away from. This helps protect pages that are private or could slow
+ down the website if too many people visit them at once. Following these rules is called ethical
+ scraping because it shows respect for the website and helps keep it working properly.
