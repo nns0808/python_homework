@@ -1,0 +1,8 @@
+One challenge I faced was using XPath and CSS selectors in Selenium. Sometimes, I couldn't 
+find the correct elements on the web page, and I got errors like "no such element." I fixed
+this by using the browser's developer tools to inspect the elements and try different selectors 
+until I found one that worked.
+
+Another challenge was handling missing data. Some entries did not have all the information
+I wanted, such as a missing link. I used try and except blocks in my code to skip over those
+without stopping the whole program.
