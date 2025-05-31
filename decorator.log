@@ -1,0 +1,3 @@
+function: greet positional parameters: ['Alice'] keyword parameters: none return: Hello, Alice!
+function: greet positional parameters: ['Bob'] keyword parameters: {'greeting': 'Hi'} return: Hi, Bob!
+function: add positional parameters: [3, 5] keyword parameters: none return: 8
